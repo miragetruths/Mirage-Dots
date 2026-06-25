@@ -15,7 +15,7 @@
 
   ```text
   velvet/
-  ├── .config/
+  └── .config/
        ├── fastfetch/
        |    └── minimal.conf
        ├── kitty/
