@@ -1,6 +1,7 @@
---------------------------------
----- WINDOWS AND WORKSPACES ----
---------------------------------
+-- Didn't touch this as its kinda advance. If you are starting out, don't worry about this.
+
+----> WINDOWS AND WORKSPACES
+
 
 -- See https://wiki.hypr.land/Configuring/Basics/Window-Rules/
 -- and https://wiki.hypr.land/Configuring/Basics/Workspace-Rules/
